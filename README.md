@@ -11,7 +11,7 @@ Takım Elemanları
 * Furkan Kumanlı : İnaktif
 
 Ürün İsmi
-* Bank Rob
+* Bank Robbery
 
 
 Ürün Açıklaması
