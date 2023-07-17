@@ -3,7 +3,7 @@ Takım İsmi
 Takım Unity-U126
 
 Ürün İle İlgili Bilgiler
-Takım Elemanları
+*** Takım Elemanları
 Mert Çalışkan : Developer
 Sıla Gökmen : Game Design/Level Design
 Büşra Yılmaz : Görevi henüz belirlenmedi
