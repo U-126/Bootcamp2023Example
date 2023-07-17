@@ -5,7 +5,7 @@ Takım İsmi
 Ürün İle İlgili Bilgiler
 Takım Elemanları
 * Mert Çalışkan : Developer
-* Sıla Gökmen : Game Design/Level Design
+* Sıla Gökmen : Game Design/Level Design, Developer
 * Büşra Yılmaz : Görevi henüz belirlenmedi
 * Ece Güllü : İnaktif
 * Mert Çalışkan : İnaktif
@@ -32,11 +32,46 @@ Takım Elemanları
 Hedef Kitle
 * Hyper casual oyuncuları
 
+  
+
 Sprint 1
 
 ![image](https://github.com/U-126/Takim_Gorevleri/assets/136385361/44fb6ad4-941b-4c3c-9449-1dd70a195b31)
 
-*Sprint Retrospective:
+
+Sprint Retrospective:
+* Proje takibi için to do list oluşturudu.
 * Takım içindeki görev dağılımları ile ilgili düzenlemeler yapıldı.
-* Oyunun mekanikleri ve kurgusu ile ilgili karara varıldı.
+* Oyunun mekanikleri ve kurgusu ile ilgili kararlar verildi.
+
+
+
+Sprint 2
+
+![image](https://github.com/U-126/Takim_Gorevleri/assets/136385361/0f92be2f-0b0b-4725-b7db-43b4eb1f0883)
+
+
+Sprint Retrospective:
+* Player ve Enemy hareket sistemi yapıldı.
+* Enemy takip mekaniği değiştirildi
+* 3D modeller yapıldı.
+* Player ve Enemy için animasyonlar yapıldı.
+
+
+
+Sprint 3
+![image](https://github.com/U-126/Takim_Gorevleri/assets/136385361/9a5e8d8c-69d5-46fb-bcaf-6efdaf3d958f)
+
+Sprint Retrospective: 
+* Oyunun mekanikleri bitti.
+* Oyun için polishlemeler yapıldı (Joystick eklendi)
+* Environment'ın tekrardan düzenlendi.
+* Win ve Fail ekranı eklendi.
+* UI'lar hazırlandı(Coin topladıkça dolan slider ve coin text'i eklendi)
+* Sound effect eklendi(Coin effect)
+* Koşma animasyonu için toz partical'ı eklendi.
+* Sprint Review katılımcıları: Sılanur Gökmen, Mert Çalışkan, Büşra Yılmaz
+
+
+
   
