@@ -8,7 +8,7 @@ Takım Elemanları
 * Sıla Gökmen : Game Design/Level Design, Developer
 * Büşra Yılmaz : Görevi henüz belirlenmedi
 * Ece Güllü : İnaktif
-* Mert Çalışkan : İnaktif
+* Furkan Kumanlı : İnaktif
 
 Ürün İsmi
 * Bank Rob
