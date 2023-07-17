@@ -31,3 +31,7 @@ Takım Elemanları
 
 Hedef Kitle
 * Hyper casual oyuncuları
+
+
+
+![image](https://github.com/U-126/Takim_Gorevleri/assets/136385361/44fb6ad4-941b-4c3c-9449-1dd70a195b31)
