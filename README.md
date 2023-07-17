@@ -6,7 +6,7 @@ Takım İsmi
 Takım Elemanları
 * Mert Çalışkan : Developer
 * Sıla Gökmen : Game Design/Level Design, Developer
-* Büşra Yılmaz : Görevi henüz belirlenmedi
+* Büşra Yılmaz : 3D modelleme
 * Ece Güllü : İnaktif
 * Furkan Kumanlı : İnaktif
 
