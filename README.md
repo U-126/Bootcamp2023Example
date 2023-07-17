@@ -67,7 +67,7 @@ Sprint Retrospective:
 * Oyunun mekanikleri bitti.
 * Oyun için polishlemeler yapıldı (Joystick eklendi)
 * Environment'ın tekrardan düzenlendi.
-* Win ve Fail ekranı eklendi.
+* Win ekranı eklendi.
 * UI'lar hazırlandı(Coin topladıkça dolan slider ve coin text'i eklendi)
 * Sound effect eklendi(Coin effect)
 * Koşma animasyonu için toz partical'ı eklendi.
