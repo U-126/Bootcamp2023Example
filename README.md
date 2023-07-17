@@ -50,6 +50,11 @@ Sprint 2
 
 ![image](https://github.com/U-126/Takim_Gorevleri/assets/136385361/0f92be2f-0b0b-4725-b7db-43b4eb1f0883)
 
+![image](https://github.com/U-126/Bootcamp2023Example/assets/136385361/f486bf53-2180-42d3-9105-3e4692f6de5d)
+
+![image](https://github.com/U-126/Bootcamp2023Example/assets/136385361/93ebcb89-c6da-4c8b-9fc6-8b1d8a2cda89)
+
+
 
 Sprint Retrospective:
 * Player ve Enemy hareket sistemi yapıldı.
@@ -62,6 +67,12 @@ Sprint Retrospective:
 Sprint 3
 
 ![image](https://github.com/U-126/Takim_Gorevleri/assets/136385361/9a5e8d8c-69d5-46fb-bcaf-6efdaf3d958f)
+
+![image](https://github.com/U-126/Bootcamp2023Example/assets/136385361/c5f3d4e1-9571-4653-b1be-00c842490ba3)
+
+![image](https://github.com/U-126/Bootcamp2023Example/assets/136385361/b01d485a-fcb5-407f-a816-ae2d1885e7e9)
+
+
 
 Sprint Retrospective: 
 * Oyunun mekanikleri bitti.
