@@ -32,6 +32,11 @@ Takım Elemanları
 Hedef Kitle
 * Hyper casual oyuncuları
 
-
+Sprint 1
 
 ![image](https://github.com/U-126/Takim_Gorevleri/assets/136385361/44fb6ad4-941b-4c3c-9449-1dd70a195b31)
+
+*Sprint Retrospective:
+* Takım içindeki görev dağılımları ile ilgili düzenlemeler yapıldı.
+* Oyunun mekanikleri ve kurgusu ile ilgili karara varıldı.
+  
