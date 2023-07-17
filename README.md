@@ -1,6 +1,6 @@
 
 Takım İsmi
-*Takım Unity-U126
+* Takım Unity-U126
 
 Ürün İle İlgili Bilgiler
 Takım Elemanları
@@ -11,7 +11,7 @@ Takım Elemanları
 * Mert Çalışkan : İnaktif
 
 Ürün İsmi
---Bank Rob--
+* Bank Rob
 
 
 Ürün Açıklaması
