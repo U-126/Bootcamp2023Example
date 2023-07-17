@@ -60,6 +60,7 @@ Sprint Retrospective:
 
 
 Sprint 3
+
 ![image](https://github.com/U-126/Takim_Gorevleri/assets/136385361/9a5e8d8c-69d5-46fb-bcaf-6efdaf3d958f)
 
 Sprint Retrospective: 
