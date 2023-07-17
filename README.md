@@ -46,6 +46,10 @@ Sprint Retrospective:
 
 
 
+
+
+
+
 Sprint 2
 
 ![image](https://github.com/U-126/Takim_Gorevleri/assets/136385361/0f92be2f-0b0b-4725-b7db-43b4eb1f0883)
@@ -61,6 +65,10 @@ Sprint Retrospective:
 * Enemy takip mekaniği değiştirildi
 * 3D modeller yapıldı.
 * Player ve Enemy için animasyonlar yapıldı.
+
+
+
+
 
 
 
